@@ -1,0 +1,7 @@
+D:\Download\Declaring Variables\Declaring Variables\bin\Release\Declaring Variables.exe.config
+D:\Download\Declaring Variables\Declaring Variables\bin\Release\Declaring Variables.exe
+D:\Download\Declaring Variables\Declaring Variables\bin\Release\Declaring Variables.pdb
+D:\Download\Declaring Variables\Declaring Variables\obj\Release\Declaring Variables.csprojAssemblyReference.cache
+D:\Download\Declaring Variables\Declaring Variables\obj\Release\Declaring Variables.csproj.CoreCompileInputs.cache
+D:\Download\Declaring Variables\Declaring Variables\obj\Release\Declaring Variables.exe
+D:\Download\Declaring Variables\Declaring Variables\obj\Release\Declaring Variables.pdb
